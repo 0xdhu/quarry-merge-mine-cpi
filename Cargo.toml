@@ -1,5 +1,5 @@
 [package]
-name = "quarry-cpi"
+name = "quarry-merge-mine-cpi"
 version = "0.1.0"
 description = "Cui"
 edition = "2021"
